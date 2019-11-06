@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{c75ab483-e43a-42c8-b981-d27ff24cefbc}">
+        <property name="assetPath">
+            <value>ArmorPickup1.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.87691666666666668</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f75c266b-8b02-4bd8-9c35-34ee1b80a496}</destination>
+        </relationship>
+    </object>
+</objects>

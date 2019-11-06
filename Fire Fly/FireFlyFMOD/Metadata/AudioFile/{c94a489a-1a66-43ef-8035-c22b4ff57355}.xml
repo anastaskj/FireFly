@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{c94a489a-1a66-43ef-8035-c22b4ff57355}">
+        <property name="assetPath">
+            <value>AF_Skill_Unlock.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.8328344671201813</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f75c266b-8b02-4bd8-9c35-34ee1b80a496}</destination>
+        </relationship>
+    </object>
+</objects>

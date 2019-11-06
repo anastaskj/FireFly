@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{039fb6cc-7131-4b2f-b898-15e97a8e6f3b}">
+        <property name="assetPath">
+            <value>voice_male_b_death_low_09.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>5.5599999999999996</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f75c266b-8b02-4bd8-9c35-34ee1b80a496}</destination>
+        </relationship>
+    </object>
+</objects>

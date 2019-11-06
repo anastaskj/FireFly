@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{dd27606e-67de-4d15-abc7-8111733edb88}">
+        <property name="assetPath">
+            <value>TD_Collect_Star_03_02.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.87582766439909299</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f75c266b-8b02-4bd8-9c35-34ee1b80a496}</destination>
+        </relationship>
+    </object>
+</objects>

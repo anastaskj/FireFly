@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RoomSpawner
+  - FireFly
+  - EnemySpawner
+  - Enemy
+  - Health
+  - Wall
+  - Pixie
+  - Lasher
+  - Splitter
+  - BossRoom
+  - BossHealth
+  - Canvas
+  - Boss
+  - Spawn of Terra
+  - Offspring of Terra
+  - BossName
+  - ArmorConsumable
+  - HealthConsumable
+  - Armor
+  - XP
+  - FireParticle
+  - EarthParticle
+  - MainMenu
+  - ShopPortal
+  - BossPortal
+  - EndLevel
+  - Barrier
+  - LightningPickup
+  - ScorchPickup
+  - EndSpawn
+  - PixieTree
+  - Hornet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Room
+  - SpawnerLayer
+  - Wisp
+  - Walls
+  - Enemy
+  - Player
+  - Boss
+  - Holstered Fire
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForestBorder
+    uniqueID: 2594605523
+    locked: 0
+  - name: Player
+    uniqueID: 3357195545
+    locked: 0
+  - name: Particles
+    uniqueID: 790843389
+    locked: 0
+  - name: Fire
+    uniqueID: 3871658111
+    locked: 0
+  - name: FogOfWar
+    uniqueID: 2262387601
+    locked: 0
